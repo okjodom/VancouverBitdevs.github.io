@@ -82,3 +82,4 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 - [damus, nostr ios](http://git.jb55.com/damus/log.html)
 - [Bitcoin Rainbow Chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)
 - [Vitalik's Bitcoin realization??](https://twitter.com/vitalikbuterin/status/1526378787855736832)
+- [Bitcoin Fear&Greed Meter](https://twitter.com/BitcoinFear)
