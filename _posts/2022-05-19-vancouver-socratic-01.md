@@ -32,7 +32,7 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 <!-- ## Network Data -->
 
 ## Research
-- [Mutually Assured Preservation](https://mutuallyassuredpreservation.com/)
+- [Mutually Assured Preservation](https://bitpublica.substack.com/p/bitcoin-is-bullet-proof-property?s=r)
 
 <!-- ## InfoSec -->
 
