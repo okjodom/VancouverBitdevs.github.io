@@ -13,36 +13,38 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 
 ### Mailing Lists
 
-#### bitcoin-dev
+<!-- #### bitcoin-dev -->
 
 #### lightning-dev
+- [PickhardtPayments implemented in lnd-manageJ](https://twitter.com/c_otto83/status/1525879972786749453)
 
-#### dlc-dev
+<!-- #### dlc-dev -->
 
 ### Optech
-
 - [Optech#199](https://bitcoinops.org/en/newsletters/2022/05/11/)
 - [Optech#200](https://bitcoinops.org/en/newsletters/2022/05/18/)
+
+### Bitcoinomics
 - [Bitcoinomics#17](https://only21.substack.com/p/202217?sd=nfs&s=r)
 
-### Meetings
+<!-- ### Meetings -->
 
-## Network Data
+<!-- ## Network Data -->
 
 ## Research
 - [Mutually Assured Preservation](https://mutuallyassuredpreservation.com/)
 
-## InfoSec
+<!-- ## InfoSec -->
 
-## Pull Requests and repo updates
+<!-- ## Pull Requests and repo updates -->
 
-### Bitcoin Core
+<!-- ### Bitcoin Core -->
 
-### rust-bitcoin
+<!-- ### rust-bitcoin -->
 
-### secp256k1
+<!-- ### secp256k1 -->
 
-### secp256k1-zkp
+<!-- ### secp256k1-zkp -->
 
 ### BIPs
 - [Bitcoin Covenants](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
@@ -57,10 +59,9 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 ### lnd
 - [LNURL](https://github.com/fiatjaf/lnurl-rfc)
 - [Multi Path Payments](https://lightning.engineering/posts/2020-05-07-mpp/)
-- [PickhardtPayments implemented in lnd-manageJ](https://twitter.com/c_otto83/status/1525879972786749453)
 - [TARO Multi Asset BTC](https://lightning.engineering/posts/2022-4-5-taro-launch/)
 
-### rust-lightning
+<!-- ### rust-lightning -->
 
 ### BOLTS
 - [BOLT1](https://github.com/lightning/bolts/blob/master/01-messaging.md)
@@ -73,9 +74,10 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 ## Events and Podcasts
 - [Bitcoin Meet Up 001, JD's Barbership](https://meetu.ps/e/L397p/99vjY/i)
 
-## Mining
+<!-- ## Mining -->
 
 ## Miscellaneous
 - [nostr, decentralized twitter](https://github.com/fiatjaf/nostr)
 - [damus, nostr ios](http://git.jb55.com/damus/log.html)
 - [Bitcoin Rainbow Chart](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)
+- [Vitalik's Bitcoin realization??](https://twitter.com/vitalikbuterin/status/1526378787855736832)
