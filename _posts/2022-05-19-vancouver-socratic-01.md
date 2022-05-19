@@ -32,7 +32,6 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 
 - [Mutually Assured Preservation](https://mutuallyassuredpreservation.com/)
 
-
 ## InfoSec
 
 ## Pull Requests and repo updates
@@ -46,6 +45,8 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 ### secp256k1-zkp
 
 ### BIPs
+- [Bitcoin Covenants](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
+- [BIP-119 OPCHECK Template Verify](https://www.bip119.com/)
 
 ### eclair
 
