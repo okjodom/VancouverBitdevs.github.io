@@ -23,13 +23,13 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 
 - [Optech#199](https://bitcoinops.org/en/newsletters/2022/05/11/)
 - [Optech#200](https://bitcoinops.org/en/newsletters/2022/05/18/)
+- [Bitcoinomics#17](https://only21.substack.com/p/202217?sd=nfs&s=r)
 
 ### Meetings
 
 ## Network Data
 
 ## Research
-
 - [Mutually Assured Preservation](https://mutuallyassuredpreservation.com/)
 
 ## InfoSec
@@ -52,9 +52,9 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 - [Trampoline Nodes](https://medium.com/@ACINQ/phoenix-wallet-part-4-trampoline-payments-fb1befd027c8)
 
 ### c-lightning
+- [LNlink, ios app to clightning](http://git.jb55.com/lnlink/file/README.html)
 
 ### lnd
-- [LNlink, ios app to clightning](http://git.jb55.com/lnlink/file/README.html)
 - [LNURL](https://github.com/fiatjaf/lnurl-rfc)
 - [Multi Path Payments](https://lightning.engineering/posts/2020-05-07-mpp/)
 - [PickhardtPayments implemented in lnd-manageJ](https://twitter.com/c_otto83/status/1525879972786749453)
