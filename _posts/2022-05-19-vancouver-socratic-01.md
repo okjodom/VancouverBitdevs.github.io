@@ -55,6 +55,7 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 
 ### c-lightning
 - [LNlink, ios app to clightning](http://git.jb55.com/lnlink/file/README.html)
+- [Blockstream's Greenlight, Cloud Lightning Nodes](https://blog.blockstream.com/en-greenlight-by-blockstream-lightning-made-easy/)
 
 ### lnd
 - [LNURL](https://github.com/fiatjaf/lnurl-rfc)
