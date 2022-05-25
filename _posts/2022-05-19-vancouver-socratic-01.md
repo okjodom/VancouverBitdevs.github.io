@@ -74,6 +74,7 @@ Bitcoin Design, Selene Jin, Director of UX @Blockstream
 
 ## Events and Podcasts
 - [Bitcoin Meet Up 001, JD's Barbership](https://meetu.ps/e/L397p/99vjY/i)
+- [Advance Tech Podcast](https://podcasts.apple.com/us/podcast/advance-tech-podcast/id1278222771)
 
 <!-- ## Mining -->
 
