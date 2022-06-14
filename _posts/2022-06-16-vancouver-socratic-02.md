@@ -2,12 +2,15 @@
 layout: post
 type: socratic
 title: "Vancouver Socratic 002"
-meetup: https://www.meetup.com/Vancouver-Bitcoiners/events/285951379/
+meetup: https://www.meetup.com/vancouver-bitcoiners/events/286404520/
 ---
+
+## Announcements
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/),for food, refreshments and event space.
 
 ## Presentation
 
-## Mailing Lists  Bitcoin Optech
+<!-- ## Mailing Lists  Bitcoin Optech -->
 
 ### Mailing Lists
 
@@ -15,27 +18,40 @@ meetup: https://www.meetup.com/Vancouver-Bitcoiners/events/285951379/
 
 #### lightning-dev
 
+- [LN Summit 2022 Oakland](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
+
 #### dlc-dev
+
+- [DLC Channels](https://github.com/discreetlogcontracts/dlcspecs/pull/196)
 
 ### Optech
 
-### Meetings
+- 
+- [Miniscript](https://bitcoinops.org/en/topics/miniscript/)
+
+### Bitcoinomics
+
+- [Bitcoinomics#20](https://only21.substack.com/p/202220?s=r)
 
 ## Network Data
 
 ## Research
 
+- [Softwar: Bitcoin and the Future of National Strategic Defense](https://twitter.com/JasonPLowery/status/1533925550598889478)
+
 ## InfoSec
+
+- [Private Authentication Protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
 
 ## Pull Requests and repo updates
 
 ### Bitcoin Core
 
-### rust-bitcoin
+<!-- ### rust-bitcoin -->
 
-### secp256k1
+<!-- ### secp256k1 -->
 
-### secp256k1-zkp
+<!-- ### secp256k1-zkp -->
 
 ### BIPs
 
@@ -51,8 +67,13 @@ meetup: https://www.meetup.com/Vancouver-Bitcoiners/events/285951379/
 
 ### New Releases
 
+[Jack Dorsey, Web5](https://developer.tbd.website/projects/web5)
+
 ## Events and Podcasts
 
-## Mining
+[Bitcoin, Proof of Work, Future of War with Adam Back & Jason Lowery](https://www.youtube.com/watch?v=37w4vxeYL8U)
+
+<!-- ## Mining -->
 
 ## Miscellaneous
+[Why is Bitcoin inherently Volatile?](https://gist.github.com/fernandonm/81cb21bdce0910055de32b98ee4119e1)
