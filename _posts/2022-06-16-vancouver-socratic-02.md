@@ -14,11 +14,23 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Mailing Lists
 
+- [LNURL-withdrawPOS bLIP](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003597.html)
+
+- [LNURL-withdraw POS flow](https://github.com/lightning/blips/pull/16)
+
+- [Hidden Lightning Network, estimating private nodes](https://github.com/BitcoinDevShop/hidden-lightning-network)
+
 #### bitcoin-dev
 
 #### lightning-dev
 
+- [Lightning Spec Meeting Oakland](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
+
 - [LN Summit 2022 Oakland](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
+
+- [LUD-16 (Lightning Address), how to fetch the json?](https://github.com/fiatjaf/lnurl-rfc/issues/93)
+
+- [BLIP 11, a standard for conveying "receiver name" in BOLT11 invoices](https://github.com/lightning/blips/blob/master/blip-0011.md)
 
 #### dlc-dev
 
@@ -26,7 +38,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Optech
 
-- 
 - [Miniscript](https://bitcoinops.org/en/topics/miniscript/)
 
 ### Bitcoinomics
@@ -42,6 +53,8 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 ## InfoSec
 
 - [Private Authentication Protocols](https://github.com/sipa/writeups/tree/main/private-authentication-protocols)
+
+- [Hertzbleed](https://www.hertzbleed.com/)
 
 ## Pull Requests and repo updates
 
@@ -61,13 +74,19 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### lnd
 
+[Loop, Musig2 upgrade merged](https://github.com/lightninglabs/loop/pull/497)
+
 ### rust-lightning
 
 ### BOLTS
 
+- [Explicitly allow funding_locked early, and support alias scids](https://github.com/lightning/bolts/pull/910)
+
 ### New Releases
 
 [Jack Dorsey, Web5](https://developer.tbd.website/projects/web5)
+
+[BTCPay, Add Lightning balances and services](https://github.com/btcpayserver/btcpayserver/pull/3838)
 
 ## Events and Podcasts
 
