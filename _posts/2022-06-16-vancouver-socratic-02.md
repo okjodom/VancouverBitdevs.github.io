@@ -57,7 +57,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## Pull Requests and repo updates
 
-### Bitcoin Core
+<!-- ### Bitcoin Core    -->
 
 <!-- ### rust-bitcoin -->
 
