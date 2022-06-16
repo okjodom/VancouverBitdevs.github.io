@@ -24,8 +24,6 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 #### lightning-dev
 
-- [Lightning Spec Meeting Oakland](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
-
 - [LN Summit 2022 Oakland](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
 
 - [LUD-16 (Lightning Address), how to fetch the json?](https://github.com/fiatjaf/lnurl-rfc/issues/93)
@@ -39,6 +37,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 ### Optech
 
 - [Miniscript](https://bitcoinops.org/en/topics/miniscript/)
+- [Bitcoin Optech #204](https://bitcoinops.org/en/newsletters/2022/06/15/)
 
 ### Bitcoinomics
 
