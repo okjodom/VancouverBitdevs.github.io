@@ -6,7 +6,7 @@ meetup: https://www.meetup.com/vancouver-bitcoiners/events/286404520/
 ---
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/),for food, refreshments and event space.
+Please join us for our next Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/) and [Bull Bitcoin](https://www.bullbitcoin.com/), for food, refreshments and event space.
 
 ## Presentation
 
