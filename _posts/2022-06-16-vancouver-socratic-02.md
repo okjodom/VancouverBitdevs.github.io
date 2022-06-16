@@ -43,7 +43,7 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 - [Bitcoinomics#20](https://only21.substack.com/p/202220?s=r)
 
-## Network Data
+<!-- ## Network Data -->
 
 ## Research
 
@@ -65,17 +65,17 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 <!-- ### secp256k1-zkp -->
 
-### BIPs
+<!-- ### BIPs -->
 
-### eclair
+<!-- ### eclair -->
 
-### c-lightning
+<!-- ### c-lightning -->
 
 ### lnd
 
 [Loop, Musig2 upgrade merged](https://github.com/lightninglabs/loop/pull/497)
 
-### rust-lightning
+<!-- ### rust-lightning -->
 
 ### BOLTS
 
