@@ -75,6 +75,8 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 [Loop, Musig2 upgrade merged](https://github.com/lightninglabs/loop/pull/497)
 
+[The Lightning Network: More than just payments](https://cdn.jb55.com/talk.pdf)
+
 <!-- ### rust-lightning -->
 
 ### BOLTS
