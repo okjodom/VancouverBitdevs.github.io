@@ -10,6 +10,10 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ## Presentation
 
+Roman Martinez, Co-founder @ Bitcoin Beach; 
+
+Selene Jin, Design Leader, building the infrastructure for the future.
+
 <!-- ## Mailing Lists  Bitcoin Optech -->
 
 ### Mailing Lists
@@ -18,8 +22,9 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 #### lightning-dev
 
-#### dlc-dev
+[Lightning Gossip](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003470.html)
 
+#### dlc-dev
 
 
 ### Optech
@@ -28,9 +33,16 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### Bitcoinomics
 
+- [SEC rejects Grayscale Spot ETF](https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf)
+- [Nations credibility questioned, El Salvador in the crosschairs](https://noagendasocial.com/@NBS/108619083441292935)
 
 
 ## Network Data
+
+- [Bitcoin Lightning Nodes](https://www.lookintobitcoin.com/charts/lightning-network-nodes/)
+- [Bitcoin Lighting Capacity](https://www.lookintobitcoin.com/charts/lightning-network-capacity/)
+- [Bitcoin mining energy and carbon footprint](https://coinshares.com/research/bitcoin-mining-network-2022)
+
 
 ## Research
 
@@ -55,7 +67,11 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### c-lightning
 
+- [LNlink, ios app to clightning](https://lnlink.app/)
+
 ### lnd
+
+- [LND & BOLT12 discussion](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 
 ### rust-lightning
 
@@ -63,13 +79,19 @@ Please join us for our next Socratic Seminar. A special thank you to our sponsor
 
 ### New Releases
 
+- [Sensei = BDK + LDK](https://l2.technology/sensei)
+
+
 
 
 ## Events and Podcasts
+
+- [Kevin Rooke, Mr.Casarin on Damus built on Nostr](https://www.youtube.com/watch?v=QXd0vLTw6NA)
 
 
 <!-- ## Mining -->
 
 ## Miscellaneous
-
 - [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers, Trail of Bits](https://assets-global.website-files.com/5fd11235b3950c2c1a3b6df4/62af6c641a672b3329b9a480_Unintended_Centralities_in_Distributed_Ledgers.pdf)
+- [Bitcoin Sandbox, no LN?](https://nigiri.vulpem.com/)
+- [LNbank for BTCPay](https://coincharge.io/en/lnbank/)
