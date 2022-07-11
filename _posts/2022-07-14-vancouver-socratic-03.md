@@ -83,9 +83,8 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 
 
 
-
 ## Events and Podcasts
-
+- [Alexandra Moxin, State of Bitcoin ep29](https://www.youtube.com/watch?v=u5Z1l0jQOdk)
 - [Kevin Rooke, Mr.Casarin on Damus built on Nostr](https://www.youtube.com/watch?v=QXd0vLTw6NA)
 
 
