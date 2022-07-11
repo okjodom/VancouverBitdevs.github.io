@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Vancouver Socratic 002"
+title: "Vancouver Socratic 003"
 meetup: https://www.meetup.com/vancouver-bitcoiners/events/286754181/
 ---
 
@@ -22,7 +22,7 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 
 #### lightning-dev
 
-[Lightning Gossip](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003470.html)
+- [Lightning Gossip](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003470.html)
 
 #### dlc-dev
 
