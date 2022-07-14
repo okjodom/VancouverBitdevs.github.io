@@ -14,7 +14,7 @@ description: "BitDevs is a community for those interested in discussing and part
 
 # include new files
 include: 
-- _.well-known
+- .well-known
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
