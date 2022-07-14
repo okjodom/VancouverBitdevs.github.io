@@ -18,18 +18,20 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 
 ### Mailing Lists
 
-#### bitcoin-dev
+<!-- #### bitcoin-dev -->
 
 #### lightning-dev
 
 - [Lightning Gossip](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-February/003470.html)
 
-#### dlc-dev
+<!-- #### dlc-dev -->
 
 
 ### Optech
 
-
+- [Optech #207](https://bitcoinops.org/en/newsletters/2022/07/06/)
+- [Discrete Log Contracts](https://bitcoinops.org/en/topics/discreet-log-contracts/)
+- [Covenants](https://bitcoinops.org/en/topics/covenants/)
 
 ### Bitcoinomics
 
@@ -44,16 +46,19 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 - [Bitcoin mining energy and carbon footprint](https://coinshares.com/research/bitcoin-mining-network-2022)
 
 
-## Research
+<!-- ## Research -->
 
 
 
 ## InfoSec
+- [Long term block reward funding critical for security](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-June/020551.html)
+- [Tail Emission not inflationary](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary)
+- [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers, Trail of Bits](https://assets-global.website-files.com/5fd11235b3950c2c1a3b6df4/62af6c641a672b3329b9a480_Unintended_Centralities_in_Distributed_Ledgers.pdf)
 
 
 ## Pull Requests and repo updates
 
-### Bitcoin Core
+<!-- ### Bitcoin Core -->
 
 <!-- ### rust-bitcoin -->
 
@@ -61,9 +66,9 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 
 <!-- ### secp256k1-zkp -->
 
-### BIPs
+<!-- ### BIPs -->
 
-### eclair
+<!-- ### eclair -->
 
 ### c-lightning
 
@@ -75,15 +80,19 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 
 ### rust-lightning
 
+- [Sensei = BDK + LDK](https://l2.technology/sensei)
+
 ### BOLTS
 
 ### New Releases
 
-- [Sensei = BDK + LDK](https://l2.technology/sensei)
+- [Nigiri Bitcoin Sandbox, *not edible](https://nigiri.vulpem.com/)
+
 
 
 
 ## Events and Podcasts
+
 - [Alexandra Moxin, State of Bitcoin ep29](https://www.youtube.com/watch?v=u5Z1l0jQOdk)
 - [Kevin Rooke, Mr.Casarin on Damus built on Nostr](https://www.youtube.com/watch?v=QXd0vLTw6NA)
 
@@ -91,6 +100,5 @@ Selene Jin, Design Leader, building the infrastructure for the future.
 <!-- ## Mining -->
 
 ## Miscellaneous
-- [Are Blockchains Decentralized? Unintended Centralities in Distributed Ledgers, Trail of Bits](https://assets-global.website-files.com/5fd11235b3950c2c1a3b6df4/62af6c641a672b3329b9a480_Unintended_Centralities_in_Distributed_Ledgers.pdf)
-- [Bitcoin Sandbox, no LN?](https://nigiri.vulpem.com/)
+
 - [LNbank for BTCPay](https://coincharge.io/en/lnbank/)
