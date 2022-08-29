@@ -15,7 +15,7 @@ $small-screen: 400px;
 $mid-screen: 768px;
 $large-screen: 1024px;
 
-// @import './reset';
+@import './reset';
 @import './global';
 @import './header';
 @import './footer';
