@@ -56,6 +56,7 @@ survey:date=yyyy-mm-dd
 
 - [Offline PoS now flashable from the browser](https://lnbits.github.io/lnpos/installer/) Easy to use web interface to flash your Offline PoS with the latest firmware
 - [Guide to channel jamming attacks](https://jamming-dev.github.io/book/) Great resources to learn about channel jamming and mitigation
+- [Mutiny](https://mutinywallet.com/) Privacy focused Lightning wallet
 
 <!-- #### dlc-dev -->
 
@@ -108,11 +109,21 @@ survey:date=yyyy-mm-dd
 
 ### New Releases
 
-
+- [Cash App can now send and receive Lightning](https://twitter.com/refazi/status/1567306422337273862) finally!
+- [Impervious browser is out](https://twitter.com/ImperviousAi/status/1570903723433684994)
+- [Solitaire](https://twitter.com/thndrgames/status/1571876855443079168) Play games with sats
+- [Voltpay](https://twitter.com/voltpayapp/status/1571257726004768768) Merchant services
+- [Mercury Wallet](https://twitter.com/mercury_wallet/status/1570818987008884736) Lightning integration is ready
+- [Alby](https://twitter.com/getalby/status/1570103022063058944) brings Lightning to Linktree
+- [Satsoverflow](https://satsoverflow.io/) Like stackoverflow but you get paid
 
 ## Events and Podcasts
 
 <!-- ## Mining -->
+- [Connect the World](https://twitter.com/ctw_podcast/status/1572261808047591426) with Ben Arc (LNBits)
+- [Connect the World](https://twitter.com/ctw_podcast/status/1569709993959608320) with Desiree Dickerson (Thundergames)
+- [What Bitcoin Did](https://twitter.com/whatbitcoindid/status/1570037834857185281) with Ben Arc
+- [Bolt Fun](https://twitter.com/boltfun_btc/status/1572251737120964613) Lightning tournament
 
 ## Miscellaneous
 
