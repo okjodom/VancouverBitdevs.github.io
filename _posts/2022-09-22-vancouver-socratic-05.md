@@ -64,6 +64,8 @@ survey:date=yyyy-mm-dd
 ### Optech
 
 - [160 million hacked from "crypto" market maker Wintermute](https://decrypt.co/110131/algorithmic-market-maker-wintermute-hacked-for-160m)
+- [Wintermute technical writeup](https://rekt.news/wintermute-rekt-2/)
+- [Wintermute commentary](https://x0f.org/@waxwing/109036049145606167)
 
 <!-- ### Bitcoinomics -->
 
