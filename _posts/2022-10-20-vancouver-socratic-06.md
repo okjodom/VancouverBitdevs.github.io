@@ -9,6 +9,7 @@ meetup: https://www.meetup.com/vancouver-bitcoiners/events/289082107/
 Please join us for today's Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/) and [Bull Bitcoin](https://www.bullbitcoin.com/), for food, refreshments and event space.
 
 - [Coinos 10th anniversary party!](https://twitter.com/coinoswallet/status/1582820024783601664)
+- [BTCVancity Meetup 006](https://www.meetup.com/meetup-group-ukzqmbyi/events/289219912/)
 
 ### Mailing Lists
 
