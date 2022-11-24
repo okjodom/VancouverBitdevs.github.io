@@ -1,6 +1,7 @@
 ---
 layout: post
 type: socratic
+date: "2022-08-18 17:00:00"
 title: "Vancouver Socratic 004"
 meetup: https://www.meetup.com/vancouver-bitcoiners/events/287372371/
 ---
