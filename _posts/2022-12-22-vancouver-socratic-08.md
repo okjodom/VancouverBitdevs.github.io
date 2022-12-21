@@ -37,6 +37,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsors
 - [100 Bitcoin related to QuadrigaCX wallets on the move](https://www.coindesk.com/policy/2022/12/19/bitcoin-addresses-tied-to-defunct-canadian-crypto-exchange-quadrigacx-wake-up/)
 - [Binarywatch](https://binarywatch.org/)
 - [Bitcoin Binary](https://bitcoinbinary.org/)
+- How cold is too cold to mine Bitcoin?
 
 <!-- ### Bitcoinomics -->
 
@@ -45,6 +46,8 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsors
 ## Network Data
 
 - [Another record month for WoS](https://twitter.com/kerooke/status/1603812141966016520)
+- [The largest 250 nodes in the network are responsible  for ~  65% of the capacity of all channels.](https://twitter.com/thomas_fahrer/status/1605650356699947009)
+- [El Salvador's citizens received $52,000,000 of remittances processed using Chivo](https://twitter.com/documentingbtc/status/1605284970490220544)
 
 <!-- ## Research -->
 
@@ -88,6 +91,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsors
 - [Zeus supports LNC](https://twitter.com/zeusln/status/1604926345988939795)
 - [ImperviousAI available for Windows, Mac and Linux](https://twitter.com/imperviousai/status/1602918728559169536)
 - [Neutronpay App available in Vietnam](https://twitter.com/subnetmask/status/1599973707803668480)
+- [Liana: Miniscript Bitcoin wallet](https://twitter.com/KLoaec/status/1605627027746324497)
 
 ## Events and Podcasts
 
