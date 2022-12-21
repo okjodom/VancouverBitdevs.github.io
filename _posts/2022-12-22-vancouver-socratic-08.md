@@ -7,8 +7,9 @@ meetup: https://www.meetup.com/vancouver-bitcoiners/events/290319456/
 ---
 
 ## Announcements
-Please join us for today's Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/) and [Bull Bitcoin](https://www.bullbitcoin.com/), for food, refreshments and event space.
+Please join us for today's Socratic Seminar. A special thank you to our sponsors [Adaptech Group](https://adaptechgroup.com/) and [Bull Bitcoin](https://www.bullbitcoin.com/), for food, refreshments and event space. [Soundtrack](https://rss.com/podcasts/btcjune/)
 
+- Snacks fundraiser: 1071463 SAT raised (~CA$240), catering by [Mati Bistro](https://www.matibistro.com/)
 - CoinOS party at The Loft: February 2023
 
 ### Mailing Lists
@@ -97,4 +98,5 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsors
 ## Miscellaneous
 
 - [Paul Le Roux' incredible story](https://magazine.atavist.com/the-mastermind/)
+- [How the IMF and World Bank repress poor countries](https://bitcoinmagazine.com/culture/imf-world-bank-repress-poor-countries)
 
