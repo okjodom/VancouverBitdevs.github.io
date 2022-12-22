@@ -103,4 +103,4 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsors
 
 - [Paul Le Roux' incredible story](https://magazine.atavist.com/the-mastermind/)
 - [How the IMF and World Bank repress poor countries](https://bitcoinmagazine.com/culture/imf-world-bank-repress-poor-countries)
-
+- [B.C. hits pause on electrical connections for cryptocurrency mining](https://news.gov.bc.ca/releases/2022EMLI0067-001928)
