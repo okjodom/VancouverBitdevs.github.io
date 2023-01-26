@@ -101,4 +101,4 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 - [Bitcoin Mining in Congo National Park](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/)
 - [Voltage: Where does the yield come from?](https://voltage.cloud/blog/bitcoin-lightning-network/where-does-lightning-network-yield-come-from/)
 - [Annotated: Sam Bankman-Fried's "FTX Pre-Mortem Overview"](https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview)
-- 
+- [Illegitimate Bitcoin transactions](https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions)
