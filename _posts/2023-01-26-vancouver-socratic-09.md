@@ -18,6 +18,10 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 - Lightningcon Vietnam [March 23-24](https://lightningcon.org/)
 - Bitcoin Beach Philippines Retreat [March 27-29](https://pouch.ph/retreat2023)
 
+#### Accept Lightning payments in Canada
+
+[Find the notes of this talk here](/notes/2023-01_pos)
+
 ### Mailing Lists
 
 #### bitcoin-dev
