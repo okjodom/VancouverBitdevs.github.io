@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 date: "2023-02-27 19:00:00"
-title: "Vancouver Socratic 009"
+title: "Vancouver Socratic 010"
 meetup: https://www.meetup.com/vancouver-bitcoiners/events/291475002/
 ---
 
