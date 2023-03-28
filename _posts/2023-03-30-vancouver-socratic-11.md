@@ -12,7 +12,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 
 [Soundtrack](https://radiofreefedi.net/)
 
-- Event space [fundraiser](https://we.encrypt.cash/apps/2wj1R9PWGqtRsAE8Y1z3LKNA8VKV/crowdfund)
+- Event space [fundraiser](https://we.encrypt.cash/apps/3f4pB5NNWmZnkryEpMiSDbzVENj9/crowdfund)
 - Bitcoin Beach Philippines Retreat [March 27-29](https://pouch.ph/retreat2023)
 - BitDevs March March 30
 
