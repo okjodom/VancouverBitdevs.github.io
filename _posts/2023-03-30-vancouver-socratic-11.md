@@ -39,18 +39,14 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 #### nostr-dev
 - [NIP-05 Verified Account](https://thebitcoinmanual.com/articles/nostr-account-nip-05-verified/)
 - [LNBits Diagon Alley Market Protocol](https://github.com/lnbits/nostrmarket)
-- [Twitter Open Sources Algorithm](https://techcrunch.com/2023/02/21/elon-musk-suggests-twitter-could-open-source-its-algorithm-next-week/)
+- [Will Twitter Open Source Algorithm](https://techcrunch.com/2023/02/21/elon-musk-suggests-twitter-could-open-source-its-algorithm-next-week/)
 
 <!-- ### Optech -->
 
 <!-- ### Bitcoinomics -->
 
 ## Network Data
-  <!-- OLD -->
-- [4MB Ordinal](https://ordinals.com/inscription/0301e0480b374b32851a9462db29dc19fe830a7f7d7a88b81612b9d42099c0aei0)
-- [Ordinals 50% of Blockspace](https://twitter.com/BitcoinPierre/status/1622744824896970753)
 - [Zaps are on the rise](https://twitter.com/kerooke/status/1629174054618910720)
-<!-- OLD -->
 <!-- ## Research -->
 
 
@@ -86,9 +82,8 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 <!-- ### BOLTS -->
 
 ### New Releases
-
-  [Bitcoin settlement without internet](https://machankura.com/)
-  [SoftWar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://twitter.com/JasonPLowery/status/1627640858106380290)
+  - [Bitcoin settlement without internet](https://machankura.com/)
+  - [SoftWar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://twitter.com/JasonPLowery/status/1627640858106380290)
 
 
 
