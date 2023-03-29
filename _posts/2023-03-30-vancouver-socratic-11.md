@@ -18,11 +18,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 
 #### Never miss a Bitcoin event ever again
 
-[Check out and subscribe to the calendar here](/events)
-
-#### Spend your sats in Vancouver
-
-[Check out our new map and merchant directory](/map)
+Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4830-8363-32fab846d1ff) noderunners community. Learn how to run a Lightning Network node, get support and make use of the latest tools and tricks to manage your node effectively.
 
 ### Mailing Lists
 
