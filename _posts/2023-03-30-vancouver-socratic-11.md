@@ -76,7 +76,7 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
 
 ### lnd
 
-- [LND 0.16 released](https://twitter.com/lightning/status/1641129399855779843)
+- [LND 0.16 released](https://lightning.engineering/posts/2023-03-29-lnd-0.16-launch/)
 
 <!-- ### rust-lightning -->
 
