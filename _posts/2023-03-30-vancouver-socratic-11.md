@@ -76,10 +76,21 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
 
 ### lnd
 
+- [LND 0.16 released](https://twitter.com/lightning/status/1641129399855779843)
+
 <!-- ### rust-lightning -->
 
 
 <!-- ### BOLTS -->
+
+### 2023 (Central) Banking Crisis
+
+- [America’s banks are missing hundreds of billions of dollars](https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars)
+- [The US bank system is more fragile than you’d think](https://www.ft.com/content/84c4446a-d7aa-4f70-a286-adeb4fc4988c)
+- [Signature Bank’s Crypto Execution](https://www.wsj.com/articles/signature-banks-crypto-execution-c707bb48)
+- [Silicon Valley Bank’s demise disrupts the disruptors in tech](https://apnews.com/article/bank-collapse-technology-startups-financing-3ef75973c14c81d46e3b390e03cab71c)
+- [How the Federal Reserve Grew More Powerful Than Anyone Ever Imagined](https://www.bloomberg.com/news/articles/2023-03-13/how-did-the-federal-reserve-gain-so-much-power)
+- [Pakistan on the Brink: What the Collapse of the Nuclear-Armed Regional Power Could Mean for the World](https://theintercept.com/2023/02/12/pakistan-economy-crisis-imf/)
 
 ### New Releases
 
