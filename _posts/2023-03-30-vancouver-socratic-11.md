@@ -46,6 +46,7 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
 ## Network Data
 
 - [Zaps are on the rise](https://twitter.com/kerooke/status/1629174054618910720)
+- [If Satoshi’s wallet became active today, do you think it would cause mass panic?](https://www.reddit.com/r/CryptoCurrency/comments/125udy6/if_satoshis_wallet_became_active_today_do_you/)
 
 <!-- ## Research -->
 
