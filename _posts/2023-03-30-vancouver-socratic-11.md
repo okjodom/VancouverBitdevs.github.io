@@ -113,5 +113,6 @@ Announcing the [Pacific Nodewest](https://amboss.space/community/4a8adb4b-3c42-4
 - [Nigerians flock to Bitcoin](https://www.forbes.com/sites/abubakarnurkhalil/2023/03/01/the-naira-crisis-is-fuelling-bitcoin-adoption-in-nigeria/)
 - [2023 Banking Crisis](https://www.piratewires.com/p/2023-banking-crisis)
 - News Outlets Talking about falling Dominance of USD
-    - [CNN](https://twitter.com/FareedZakaria/status/1640058728752840707?)
-    - [Fox News](https://twitter.com/HumbleBitcoiner/status/1640178410746966016?)
+    - [CNN](https://twitter.com/FareedZakaria/status/1640058728752840707)
+    - [Fox News](https://twitter.com/HumbleBitcoiner/status/1640178410746966016)
+- [On the Trail of the Fentanyl King](https://www.wired.com/story/on-the-trail-of-the-fentanyl-king/)
