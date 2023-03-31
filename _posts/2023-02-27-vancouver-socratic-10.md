@@ -21,7 +21,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 
 #### Never miss a Bitcoin event ever again
 
-[Check out and subscribe to the calendar here](/events)
+[Check out and subscribe to the calendar here](/calendar)
 
 #### Spend your sats in Vancouver
 
@@ -99,7 +99,7 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 - [Pearth Heat "Stealing Sats"](https://twitter.com/perthheat/status/1618853483133931521)
 - [Lightning paywall for Ghost](https://twitter.com/martybent/status/1622747716563468295)
 - [Neutronpay building Lightning infrastructure for Colombian Neobank](https://twitter.com/malcolm_weed/status/1623057213236588548)
-- [Localbitcoins shutting down](https://twitter.com/localbitcoins/status/16236832231788625930
+- [Localbitcoins shutting down](https://twitter.com/localbitcoins/status/16236832231788625930)
 - [Telegram launches p2p market](https://toninfo.substack.com/p/wallet-new-p2p-market)
 - [Paywithmoon no longer issues prepaid debit cards](https://medium.com/paywithmoon/an-important-update-about-moon-visa-prepaid-cards-2e7f7c63ea18)
 - [Options contract code for Liquid made public](https://github.com/elementsproject/options)
