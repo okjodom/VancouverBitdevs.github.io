@@ -8,6 +8,7 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards.
 - [Meatme](https://www.meatme.ca/): Frozen meat and fish delivered to your door.
+- [Mati Bistro](https://www.matibistro.com/home): Catering
 
 ### Brick & Mortar shops
 
@@ -20,14 +21,15 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 #### Restaurants, Cafes & Bars:
 
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- **NEW [Milano Coffee](https://www.milanocoffee.ca/)**: Coffee and tea
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - [The Loft on Denman](https://loftondenman.com/): Carribbean specialties
 
 #### Miscallaneous
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
+- **NEW [Cocoa Tanning](https://www.cocoatanning.ca/)**: Tanning studio and sauna
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
-- [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 
 

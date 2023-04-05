@@ -2,27 +2,36 @@
 layout: default
 ---
 
-As Bitcoin has grown, so too have the local communities of like minded enthusiasts who wish to learn from one another and connect on a deeper level. Each of these communities is unique in its own way, composed of individuals from all walks of life with different ideas about what Bitcoin is and what it is not. What it can do, and what it cannot. But no matter from what lense you view Bitcoin, you cannot escape certain shared beliefs, because without them Bitcoin would not exist. One most critical is that of open source software development––"standing on the shoulder's of giants"––a principle that enables a seemingly endless chain of novel insights from which Bitcoin was born and so too are the ideas that will allow it to scale and remain secure in an increasingly adversarial world. 
+Bitcoin is a global phenomenon that appears differently depending on the lens it is viewed through. Each community provides its own unique lens, and to study Bitcoin means not only to carefully examine it, but also to change your angle, consider new aspects and most importantly, be humble and curious.
 
-Inspired by this very ethos, the BitDevs NYC community fostered an in-person environment where technically focused dialogue could be used as a way of testing ideas, just in the same way software protocols are challenged in open networks. Instead of organizing meetups exclusively around presentations and lectures, events were styled as Socratic Seminars, such that open discourse underpinned each event, inviting a collaborative spirit that reflected the base principles of the Bitcoin protocol and cypherpunk spirit. 
+BitDevs, short for Bitcoin Developers, is a series of in-person seminars dedicated to the study of Bitcoin. It was pioneered in New York based on the ancient Socratic Seminar methodology of pursuing truth through examination and debate. At BitDevs, we present various technical (including economic, social and philosophical) aspects and put them up for discussion, complimented with further reading material.
 
-Over time, the concept of BitDevs and the associated Socratic Seminar event series have spread to other cities. While the NYC community was first to stumble upon these ideas, it holds no trademark, license, branding or creative direction over the use of these terms. BitDevs, like any piece of open source code with a liberal license, is free for anyone to use and adapt to their local communities. 
+This format has since spread all around the world, including Vancouver. We encourage you to seek out other BitDevs communities, like the ones listed below. We further encourage you to start your own, beginning either by forking [the original project](https://github.com/BitDevsNYC/BitDevsNYC.github.io/) or [our own](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io).
 
-If you find yourself interested in tapping into your local Bitcoin community, we have put together a list here of meetups which are known to regularly host in-person [Socratic Seminars](https://bitdevs.org/about). We hope you are able to attend and leave with a deeper connection to and appreciation for the Bitcoin community.
+### Canada
 
-As a disclaimer, BitDevs NYC has no official associations with or oversight of these meetups. In some cases we have never even spoken to the organizers. An idea, much like a hash function, is one way. If you don't like what you see, feel free to [fork it](https://github.com/BitDevsNYC/BitDevsNYC.github.io/) and [run your own](https://bitdevs.org/running-a-great-socratic-seminar/).
+- [Toronto](https://www.meetup.com/bitcointo/)
+- [Vancouver](https://bitdevs.ca/)
+- [Victoria](https://bitdevsvictoria.org)
+
+### United States
 
 - [Atlanta](https://atlantabitdevs.org/)
 - [Austin](https://austinbitdevs.com/)
-- [Berlin](https://bitdevs.berlin/)
 - [Chicago](https://chibitdevs.org/)
 - [Denver](http://denverbitdevs.com/)
 - [Honolulu](http://www.honolulubitdevs.com/)
-- [London](https://londonbitdevs.org/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
-- [Taipei](https://bitdevs.tw/)
 - [Tampa](https://tampabitdevs.io/)
-- [Vancouver](https://bitdevs.ca/)
+- [San Juan](https://sanjuanbitdevs.org/)
+
+### Overseas
+
+- [Amsterdam](https://bitdevsamsterdam.org/)
+- [Berlin](https://bitdevs.berlin/)
+- [London](https://londonbitdevs.org/)
+- [São Paulo](https://bitdevsportugues.org/)
+- [Taipei](https://bitdevs.tw/)
