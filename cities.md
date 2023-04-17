@@ -37,4 +37,7 @@ This format has since spread all around the world, including Vancouver. We encou
 - [London](https://londonbitdevs.org/)
 - [Melbourne](https://github.com/MelbourneBitDevs/MelbBitDevs/)
 - [São Paulo](https://saopaulobitdevs.org/)
+- [Berlin](https://bitdevs.berlin/)
+- [London](https://londonbitdevs.org/)
+- [São Paulo](https://bitdevsportugues.org/)
 - [Taipei](https://bitdevs.tw/)
