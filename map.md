@@ -20,6 +20,7 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 
 #### Restaurants, Cafes & Bars:
 
+- **NEW [Big Bite Donair](https://bigbitedonair.ca/)**: Kebaps
 - **NEW [Caffe Artigiano](https://caffeartigiano.com/)**: Coffee and snacks
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - **NEW [Milano Coffee](https://www.milanocoffee.ca/)**: Coffee and tea
