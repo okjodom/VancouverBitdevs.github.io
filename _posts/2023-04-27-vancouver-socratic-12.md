@@ -6,14 +6,18 @@ title: "Vancouver Socratic 012"
 meetup: https://www.meetup.com/vancouver-bitcoiners/events/292670713/
 ---
 
-## Announcements
+## Institutio Theologiae Elencticae
 
-Please join us for today's Socratic Seminar. A special thank you to our sponsor [Bull Bitcoin](https://www.bullbitcoin.com/). 
+Please join us for today's Socratic Seminar. A special thank you to our sponsor [Bull Bitcoin](https://www.bullbitcoin.com/).
 
-[Soundtrack](https://radiofreefedi.net/)
+Fun fact: Attendees of a socratic seminar are called Elenctics.
 
-- Event space [fundraiser](https://we.encrypt.cash/apps/3f4pB5NNWmZnkryEpMiSDbzVENj9/crowdfund)
-- BitDevs April 27
+[Soundtrack](https://player.wavlake.com/track/bd2a13fe-437c-4196-a459-e5e9ed527694)
+
+- Event space [fundraiser](https://we.encrypt.cash/apps/Rtmw2g9RCtXVYtha1Set4smVmkk/crowdfund)
+- [BTC++](https://btcpp.dev/#agenda) April 28-30
+- Bitcoin Pizza Day May 22
+- BitDevs May 27
 
 #### Never miss a Bitcoin event ever again
 
@@ -23,73 +27,77 @@ Please join us for today's Socratic Seminar. A special thank you to our sponsor 
 
 [Check out our new map and merchant directory](/map)
 
+**New merchants:**
+
+- Denman Street, Vancouver: Milano Coffee
+- Yaletown & Gastown, Vancouver: Cocoa Tanning
+- Burnaby Heights, Burnaby: Caffe Artigiano
+- Lynn Valley, North Vancouver: Big Bite Donair
+
+Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1623519974131367937)! Get 1,000,000 SAT for signing up a merchant!
+
 ### Mailing Lists
 
 #### bitcoin-dev
-[Android Validated Bitcoin Pruned Node ](https://github.com/bitcoin-core/gui-qml/tree/main/src/qml)
+
+- [Android Validated Bitcoin Pruned Node ](https://github.com/bitcoin-core/gui-qml/tree/main/src/qml)
 
 
 #### lightning-dev
 
-
+- [Splicing specifications](https://github.com/lightning/bolts/pull/863)
+- [Splicing mailing list announcement](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003886.html)
+- [Taproot channel transactions](https://ellemouton.com/posts/taproot-chan-txs/)
 
 <!-- #### dlc-dev -->
 
 #### nostr-dev
+
 - [Twitter -> super app](https://www.pymnts.com/platform-payments/2023/twitter-turns-to-payments-as-ad-revenues-sink/)
 
 <!-- ### Optech -->
 
 ## Bitcoinomics
+
 - [Backtested YOLO Buy Strategy](https://twitter.com/100trillionusd/status/1650778260442062848)
+- [The Bitcoin Civ Kit](https://github.com/civkit/paper/blob/main/civ_kit_paper.pdf)
+
+## 2023 (Central Banking) Banking Crisis
+
+- [First Republic Bank loses US$100 billion in deposits](https://www.wsj.com/amp/articles/first-republic-lost-100-billion-in-deposits-in-banking-panic-7e1bd86c)
+- [First Republic shares drop 50%](https://www.nytimes.com/2023/04/25/business/first-republic-bank-stock-price.html)
 
 ## Network Data
+
 <!-- ## Research -->
 
-
+- [Up to 86% of a block are inscriptions](https://twitter.com/leonidasnft/status/1646144637944610816)
 
 <!-- ## InfoSec -->
 
+## Token Layer
 
-## Pull Requests and repo updates
-
-<!-- ### Bitcoin Core -->
-
-<!-- ### rust-bitcoin -->
-
-<!-- ### secp256k1 -->
-
-<!-- ### secp256k1-zkp -->
-
-<!-- ### BIPs -->
-
-<!-- ### eclair -->
-
-### core lightning
-
-### eclair
-
-### ldk
-
-### lnd
-
-<!-- ### rust-lightning -->
-
-
-<!-- ### BOLTS -->
+- [RGB Protocol Announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
+- [Bug in inscriptions](https://twitter.com/leonidasnft/status/1645502786413424641)
+- [What the hell are Bitcoin stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md)
 
 ### New Releases
+
 - [LitD Lightning Channel Management](https://lightning.engineering/posts/2023-04-26-litd-release/)
 - [SoftWar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin](https://twitter.com/JasonPLowery/status/1627640858106380290)
-
-
+- [Phoenix ships with Tor on iOS](https://twitter.com/phoenixwallet/status/1643268376221872131)
+- [LNBits as a service](https://twitter.com/lnbits/status/1648681629429243905)
+- [litd 0.9.1 is out](https://lightning.engineering/posts/2023-04-26-litd-release/)
+- [Lightspark launches with streaming sats](https://twitter.com/davidmarcus/status/1648024579309441028)
+- [Bitcoin Beach wallet is now Blink](https://twitter.com/blinkbtc/status/1645905760835223552)
 
 ## Events and Podcasts
-- [TabConf 2023](https://2022.tabconf.com/)
-- [Bitcoin++ Layer 2 Conference ](https://btcpp.dev/#agenda)
 
 ## Miscellaneous
 
 - [AgentGPT for Data Analysis](https://phasellm.com/researchgpt)
 - [Creative Destruction Lab Vancouver](https://creativedestructionlab.com/companies/?location=vancouver)
-
+- [Bitcoin Whitepaper has been shipping in every copy of MacOS for five years](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+- [Apple removes original Bitcoin whitepaper from the latest macOS Ventura beta](https://9to5mac.com/2023/04/25/apple-removes-bitcoin-whitepaper-from-macos/)
+- [We must become barbarians](https://unherd.com/2023/03/we-must-become-barbarians/)
+- [Exit liquidity](https://blog.bitmex.com/exit-liquidity/)
