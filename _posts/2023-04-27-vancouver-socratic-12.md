@@ -58,6 +58,7 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 #### nostr-dev
 
 - [Twitter -> super app](https://www.pymnts.com/platform-payments/2023/twitter-turns-to-payments-as-ad-revenues-sink/)
+- [Join the Vancouver Bitcoiners Nostr chat](https://www.nostrchat.io/channel/784fa9c1876d186d9efe8f91ceb3d19f5fb94254e8a165167978d79db5e32aee)
 
 <!-- ### Optech -->
 
