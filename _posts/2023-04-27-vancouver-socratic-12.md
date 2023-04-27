@@ -94,6 +94,7 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 - [Lightspark launches with streaming sats](https://twitter.com/davidmarcus/status/1648024579309441028)
 - [Bitcoin Beach wallet is now Blink](https://twitter.com/blinkbtc/status/1645905760835223552)
 - [Neutronpay partners with El Salvadorian app DitoBanx](https://twitter.com/neutronpay/status/1651427391062032384)
+- [Lamassu releases the Grândola which can process 8 bills per second](https://twitter.com/lamassubtc/status/1643523975979360256)
 
 ## Events and Podcasts
 
