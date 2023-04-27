@@ -17,6 +17,7 @@ Fun fact: Attendees of a socratic seminar are called Elenctics.
 - Event space [fundraiser](https://we.encrypt.cash/apps/Rtmw2g9RCtXVYtha1Set4smVmkk/crowdfund)
 - [BTC++](https://btcpp.dev/#agenda) April 28-30
 - [Node Academy](https://www.nodeacademy.org/) starts Wednesday, May 3 (virtual)
+- [Post-truth Dance Performance](https://www.eventbrite.com/e/post-truth-tickets-554873510607)
 - Bitcoin Pizza Day May 22
 - BitDevs May 27
 
