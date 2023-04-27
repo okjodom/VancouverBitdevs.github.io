@@ -98,6 +98,8 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 
 ## Events and Podcasts
 
+- [LightningCon Vietnam Videos](https://www.youtube.com/@neutronpay/videos)
+
 ## Miscellaneous
 
 - [AgentGPT for Data Analysis](https://phasellm.com/researchgpt)
