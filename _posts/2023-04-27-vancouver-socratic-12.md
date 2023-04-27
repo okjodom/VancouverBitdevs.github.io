@@ -37,6 +37,8 @@ Fun fact: Attendees of a socratic seminar are called Elenctics.
 
 Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1623519974131367937)! Get 1,000,000 SAT for signing up a merchant!
 
+- [Satmap.app attempts to build a circular Bitcoin economy in/from Canada](https://satmap.app)
+
 ### Mailing Lists
 
 #### bitcoin-dev
@@ -91,6 +93,7 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 - [litd 0.9.1 is out](https://lightning.engineering/posts/2023-04-26-litd-release/)
 - [Lightspark launches with streaming sats](https://twitter.com/davidmarcus/status/1648024579309441028)
 - [Bitcoin Beach wallet is now Blink](https://twitter.com/blinkbtc/status/1645905760835223552)
+- [Neutronpay partners with El Salvadorian app DitoBanx](https://twitter.com/neutronpay/status/1651427391062032384)
 
 ## Events and Podcasts
 
