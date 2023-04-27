@@ -52,6 +52,7 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 - [Splicing specifications](https://github.com/lightning/bolts/pull/863)
 - [Splicing mailing list announcement](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003886.html)
 - [Taproot channel transactions](https://ellemouton.com/posts/taproot-chan-txs/)
+- [Update LND now, ask questions later](https://github.com/lightningnetwork/lnd/releases/tag/v0.16.1-beta)
 
 <!-- #### dlc-dev -->
 
