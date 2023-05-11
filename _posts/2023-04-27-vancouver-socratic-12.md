@@ -86,6 +86,7 @@ Reminder: The [CoinOS bounty program](https://twitter.com/VanBitcoiners/status/1
 - [RGB Protocol Announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
 - [Bug in inscriptions](https://twitter.com/leonidasnft/status/1645502786413424641)
 - [What the hell are Bitcoin stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md)
+- [soma (Spacechain-inspired Open Market for Assets) released on signet](https://github.com/nbd-wtf/soma)
 
 ### New Releases
 
