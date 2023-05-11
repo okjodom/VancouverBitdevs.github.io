@@ -23,6 +23,7 @@ This format has since spread all around the world, including Vancouver. We encou
 - [Honolulu](http://www.honolulubitdevs.com/)
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
+- [Nashville](https://nashbitdevs.org/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [Tampa](https://tampabitdevs.io/)
@@ -31,6 +32,14 @@ This format has since spread all around the world, including Vancouver. We encou
 ### Overseas
 
 - [Amsterdam](https://bitdevsamsterdam.org/)
+<<<<<<< HEAD
+=======
+- [Athens](https://bitdevs-athens.com/)
+- [Berlin](https://bitdevs.berlin/)
+- [London](https://londonbitdevs.org/)
+- [Melbourne](https://github.com/MelbourneBitDevs/MelbBitDevs/)
+- [São Paulo](https://saopaulobitdevs.org/)
+>>>>>>> 2ca40a8d0bc1137c458c95045e9a397819e3c5ce
 - [Berlin](https://bitdevs.berlin/)
 - [London](https://londonbitdevs.org/)
 - [São Paulo](https://bitdevsportugues.org/)
