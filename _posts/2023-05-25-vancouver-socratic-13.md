@@ -46,6 +46,7 @@ OKJodom: Fedimint
 - [Submetering electricity with Lightning](http://andyschroder.com/DistributedCharge/)
 - [LNMesh: Who Said You need Internet to send Bitcoin? Offline Lightning Network Payments using Community Wireless Mesh Networks](https://arxiv.org/abs/2304.14559)
 - [Draft: HTLC Endorsement to Mitigate Channel Jamming](https://github.com/lightning/bolts/pull/1071)
+- [LNDK: Bolt12 support for LND](https://github.com/lndk-org/lndk)
 
 <!-- #### dlc-dev -->
 
