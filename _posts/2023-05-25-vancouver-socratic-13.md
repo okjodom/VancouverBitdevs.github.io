@@ -40,6 +40,7 @@ OKJodom: Fedimint
 - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 - [Ledger Recover](https://www.ledger.com/recover)
 - [Ledger Recover: A Message From Pascal Gauthier, Chairman & CEO at Ledger](https://www.ledger.com/blog/ledger-recover-a-message-from-pascal-gauthier-chairman-ceo-at-ledger)
+- [ZeroSync: Introducing Validity Proofs to Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021679.html)
 
 #### lightning-dev
 
