@@ -37,7 +37,7 @@ OKJodom: Fedimint
 - [ARK protocol (formerly TBDXXX) is being teased](https://github.com/fiksn/awesome-ark/blob/master/explained.md)
 - [Formosa: Improving BIP39](https://github.com/Yuri-SVB/formosa)
 - [Nutminer – an ecash-based Bitcoin mining pool simulation built with Cashu](https://stacker.news/items/178510)
-- [Case study: fake hardware cryptowallet]https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
+- [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 - [Ledger Recover](https://www.ledger.com/recover)
 - [Ledger Recover: A Message From Pascal Gauthier, Chairman & CEO at Ledger](https://www.ledger.com/blog/ledger-recover-a-message-from-pascal-gauthier-chairman-ceo-at-ledger)
 
