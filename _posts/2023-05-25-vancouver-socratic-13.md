@@ -35,6 +35,7 @@ OKJodom: Fedimint
 - [Bug in bitcoin-core that cause high CPU consumption and orphans?](https://github.com/bitcoin/bitcoin/issues/27623)
 - [Commentary](https://twitter.com/rob1ham/status/1656726867137658888)
 - [ARK protocol (formerly TBDXXX) is being teased](https://github.com/fiksn/awesome-ark/blob/master/explained.md)
+- [ARK announcement](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272)
 - [Formosa: Improving BIP39](https://github.com/Yuri-SVB/formosa)
 - [Nutminer – an ecash-based Bitcoin mining pool simulation built with Cashu](https://stacker.news/items/178510)
 - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
