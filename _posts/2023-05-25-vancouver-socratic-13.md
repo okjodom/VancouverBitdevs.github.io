@@ -65,6 +65,7 @@ OKJodom: Fedimint
 - [The Kingdom Of Bhutan Has Been Quietly Mining Bitcoin For Years](https://www.forbes.com/sites/iainmartin/2023/04/30/bhutan-bitcoin-mining-crypto/)
 - [USA: Bitcoin mining tax (DAME)](https://www.whitehouse.gov/cea/written-materials/2023/05/02/cost-of-cryptomining-dame-tax/)
 - [Liechtenstein Plans to Accept Bitcoin for Payments to State, Prime Minister Says: Report](https://www.coindesk.com/policy/2023/05/08/liechtenstein-plans-to-accept-bitcoin-for-payments-to-state-prime-minister-says-report/)
+- [Africans Are Pioneering The Bright, Yet Complicated, Green Future Of Bitcoin Mining](https://www.forbes.com/sites/abubakarnurkhalil/2023/05/24/africans-are-pioneering-the-bright-yet-complicated-green-future-of-bitcoin-mining/)
 
 ## 2023 (Central Banking) Banking Crisis
 
@@ -87,6 +88,7 @@ OKJodom: Fedimint
 - [Bug report for Ordinals](https://github.com/casey/ord/issues/2062)
 - [Taproot Assets via Lightning Labs](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
 - [Tapd version 2 is out](https://github.com/lightninglabs/taproot-assets)
+- [Polar version 2 is out with Taproot assets](https://github.com/jamaljsr/polar/releases/tag/v2.0.0)
 - [BRC-21 standard](https://interlay-labs.gitbook.io/brc-21/)
 
 ### New Releases
