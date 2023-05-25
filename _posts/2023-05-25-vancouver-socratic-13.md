@@ -12,7 +12,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 - Event space [fundraiser](https://we.encrypt.cash/apps/1Chngwii4XMnueujJpWk78fMe75/crowdfund)
 - [Node Academy](https://www.nodeacademy.org/) in full swing, check out the guides if you want to follow along!
-- BitDevs June 29
+- BitDevs June 22
 
 #### Never miss a Bitcoin event ever again
 
