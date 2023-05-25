@@ -102,3 +102,4 @@ OKJodom: Fedimint
 - [Hamas stops accepting Bitcoin donations](https://www.reuters.com/world/middle-east/hamas-armed-wing-announces-suspension-bitcoin-fundraising-2023-04-28/)
 - [Fedi, Inc. Announces Raising 604 BTC in Series A Round](https://www.fedi.xyz/blog/fedi-inc-announces-raising-17-million-in-series-a-round)
 - [LNBits vulnerability](https://twitter.com/lnbits/status/1654416778804580352)
+- [The Bitcoin Forum](https://blog.bitmex.com/the-bitcoin-forum/)
