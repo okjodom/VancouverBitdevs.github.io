@@ -28,6 +28,8 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 OKJodom: Fedimint
 
+**[What is Fedimint?](https://gist.github.com/okjodom/c62308a7762541420b0b12d4d8688a87)**
+
 ### Mailing Lists
 
 #### bitcoin-dev
