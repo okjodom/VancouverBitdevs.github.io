@@ -1,0 +1,7 @@
+{
+"tag":"payRequest",
+"callback":"https://send.laisee.org/lnurlp/api/v1/lnurl/cb/PFe8bW",
+"minSendable":100000,
+"maxSendable":10000000000,
+"metadata":"[[\"text/plain\", \"leo@bitdevs.ca\"]]"
+}
