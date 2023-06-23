@@ -98,7 +98,7 @@ OKJodom: Fedimint
 
 ## Events and Podcasts
 
-- [TabConf 2023 | Technical Bitcoin Conference](https://2023.tabconf.com/)
+- [TabConf 2023 - Technical Bitcoin Conference](https://2023.tabconf.com/)
 
 ## Miscellaneous
 

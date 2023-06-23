@@ -87,7 +87,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 ## Events and Podcasts
 
 - [Bitcoin Rodeo 2023](http://bitcoinrodeo.com/)
-- [TabConf 2023 | Technical Bitcoin Conference](https://2023.tabconf.com/)
+- [TabConf 2023 - Technical Bitcoin Conference](https://2023.tabconf.com/)
 - [Adam Soltys on "Boomer Bedtime Stories](https://www.boomerbedtimestoryradio.com/post/bitcoin-for-boomers)
 
 ## Miscellaneous
