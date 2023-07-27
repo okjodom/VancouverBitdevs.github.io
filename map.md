@@ -38,6 +38,7 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - **NEW [Remedy Renovations](https://remedy-renovations.com/)**: Renovations
 - **NEW [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/)**: West Coast swag sold from a van
+- [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 
 
 The below map is provided by [BTCMap.org](https://btcmap.org/). You can [add your location here](https://btcmap.org/add-location).
