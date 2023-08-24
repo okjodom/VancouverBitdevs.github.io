@@ -4,12 +4,15 @@ layout: default
 
 We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you can find a curated selection of businesses around Greater Vancouver where we spend our sats. If you would like to see your business added, [open a discussion here.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/discussions/categories/merchants).
 
+Looking for how to accept Lightning payments yourself? [Check out our handy guide.](/notes/2023-01_pos)
+
 ### Online merchants
 
-- [Coincards](https://coincards.com/): Gift cards and prepaid debit cards.
-- [Meatme](https://www.meatme.ca/): Frozen meat and fish delivered to your door.
+- [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
+- [Gotoshi](https://gotoshi.ca/store-listing/), Household items delivered out of Ontario
+- [Meatme](https://www.meatme.ca/): Frozen meat and fish delivered to your door
 - [Mati Bistro](https://www.matibistro.com/home): Catering
-- **NEW [Petit Bombon](https://www.instagram.com/petitbombon12/)**: Exquisit desserts
+- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 
 ### Brick & Mortar shops
 
@@ -21,23 +24,29 @@ We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you
 
 #### Restaurants, Cafes & Bars:
 
-- **NEW [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp)**: Pizza
+- [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- **NEW [Honest Pete](https://honesttopete.com/)**: Coffee at The Beaumont
+- **NEW Master Kebap**: Food truck found downtown
 - [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
-- **NEW [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=)**: Shwarma
+- **NEW [Park Drive](https://www.parkdrive.ca/)**: Pub on Commercial Drive
+- [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 
 #### Miscallaneous
 
+- **NEW [All Natural Meat](https://www.allnaturalmeatshop.com/):** Butcher in North Vancouver
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
-- **NEW [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9)**: Convenience store
+- [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
+- **NEW [Old Country Pierogi](http://www.oldcountrypierogi.com/):** Food Truck
+- **NEW [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby):** Business VoIP services
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
-- **NEW [Remedy Renovations](https://remedy-renovations.com/)**: Renovations
-- **NEW [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/)**: West Coast swag sold from a van
+- [Remedy Renovations](https://remedy-renovations.com/): Renovations
+- [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
 
 
