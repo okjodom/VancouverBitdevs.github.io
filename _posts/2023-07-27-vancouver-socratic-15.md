@@ -30,7 +30,6 @@ We now post the links to this seminar in advance!
 - [Remedy Renovations](https://remedy-renovations.com/)
 - [Shawarma Corner, New Westminster](https://zomi.menu/?shop=497&utm=&table=)
 
-
 ### Today's talk
 
 ### Mailing Lists
@@ -68,6 +67,7 @@ We now post the links to this seminar in advance!
 - [An Update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 - [The Bank Robbers Who Are Stealing Their Own Money](https://www.bloomberg.com/news/features/2023-06-26/lebanon-financial-crisis-leads-people-to-steal-their-own-money)
 
+
 ## Network Data
 
 <!-- ## Research -->
@@ -91,3 +91,4 @@ We now post the links to this seminar in advance!
 - [Satscoffee](https://danielpcostas.dev/en/satoffee-lightning-coffee/)
 - [Introducing the Bull Bitcoin Prime PDF Guide for Sovereign Investors](https://www.bullbitcoin.com/blog/bull-bitcoin-prime-services-for-bitcoin-investors-pdf-guide)
 - [BlackRock Study Recommends 84.9% Bitcoin Allocation for Optimal Portfolio](https://bitcoinarchive.co/blackrock-bitcoin-allocation-portfolio-84/)
+
