@@ -8,12 +8,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Online merchants
 
-- NEW **[Newegg](https://www.newegg.ca)**: Electronics shipping Canada-wide
+- [Newegg](https://www.newegg.ca): Electronics shipping Canada-wide
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
 - [Gotoshi](https://gotoshi.ca/store-listing/), Household items delivered out of Ontario
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
-- NEW **[Privato Vineyard](https://www.privato.ca/bitcoin)**: Vinery shipping across British Columbia
+- [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
 
 ### Brick & mortar shops
 
@@ -31,7 +31,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
-- NEW **[Mahony's Tavern](https://www.mahonystavern.com/)**: Pub by Vancouver Convention Centre with view over the harbour
+- [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
@@ -43,11 +43,14 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 #### Miscallaneous shops
 
+- **NEW [Arbutus](https://arbutus.com/)**: Custom furniture
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
+- **NEW [Float House Therapy](https://floathouse.ca/)**: Wellness center
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
+- **NEW [Vape and Bong](https://drvape-smoke-and-bong.business.site/)**: Convenience store downtown
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
@@ -56,13 +59,17 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ### B2B, wholesale and others
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
-- NEW **[Crow's Nest Distillery](http://www.crowsnestdistillery.com/)**: Local quality distillery
-- NEW **[Feral Analysis](https://www.feralanalysis.com)**: Stock and crypto price analysis reports, chart analysis and trading education
+- [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local quality distillery
+- [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
 - [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
+
+### Charity
+
+- **NEW [Backpackbuddies](https://www.backpackbuddies.ca/crypto/)**
 
 ### Interactive map
 
