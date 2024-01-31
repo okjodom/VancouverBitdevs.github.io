@@ -90,6 +90,10 @@ Chris and Travis on [Joule Port](https://jouleport.com/)
 
 ## ETF SPECIAL
 
+- [Statement on the Approval of Spot Bitcoin Exchange-Traded Products](https://www.sec.gov/news/statement/gensler-statement-spot-bitcoin-011023)
+- [Bitcoin ETF List](https://etfdb.com/themes/bitcoin-etfs/)
+- [We confirm the SFCGov account was compromised](https://twitter.com/Safety/status/1744924042681897343)
+- [Bitcoin ETF flow table](https://farside.co.uk/?p=997)
 - [What happens to dust sent to a Bitcoin ETF](https://twitter.com/hongkim__/status/1750972104600904019)
 
 ## Network Data
