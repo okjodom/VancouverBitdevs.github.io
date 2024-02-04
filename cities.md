@@ -23,6 +23,7 @@ This format has since spread all around the world, including Vancouver. We encou
 - [Los Angeles](https://bitdevsla.org/)
 - [Miami](https://miamibitdevs.org/)
 - [Nashville](https://nashbitdevs.org/)
+- [New York City](https://bitdevs.org/)
 - [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
 - [San Francisco](https://www.sfbitcoindevs.org/)
 - [Tampa](https://tampabitdevs.io/)

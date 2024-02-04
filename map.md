@@ -4,7 +4,7 @@ layout: default
 
 We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you can find a curated selection of businesses around Greater Vancouver where we spend our sats. If you would like to see your business added, [open a discussion here.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/discussions/categories/merchants).
 
-Looking for how to accept Lightning payments yourself? [Check out our handy guide.](/notes/2023-01_pos)
+Looking for how to accept Lightning payments yourself? [Check out our handy guide.](/notes/2024-01_pos)
 
 ### Online merchants
 
