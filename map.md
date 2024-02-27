@@ -29,6 +29,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
+- **NEW [Container Brewing](https://www.drinkcontainer.beer/hodl)**: Brewery in Strathcona
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
@@ -43,14 +44,15 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 #### Miscallaneous shops
 
-- **NEW [Arbutus](https://arbutus.com/)**: Custom furniture
+- [Arbutus](https://arbutus.com/): Custom furniture
+- **NEW Al Madina Corner Store**: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
-- **NEW [Float House Therapy](https://floathouse.ca/)**: Wellness center
+- [Float House Therapy](https://floathouse.ca/): Wellness center
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
-- **NEW [Vape and Bong](https://drvape-smoke-and-bong.business.site/)**: Convenience store downtown
+- [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
@@ -69,7 +71,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Charity
 
-- **NEW [Backpackbuddies](https://www.backpackbuddies.ca/crypto/)**
+- [Backpackbuddies](https://www.backpackbuddies.ca/crypto/)
 
 ### Interactive map
 

@@ -29,6 +29,7 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 
 #### New merchants
 
+- Al Madina Corner Store
 - [Container Brewing](https://btcpay.containerbrewing.ca/)
 
 <!-- ### Today's talk -->
