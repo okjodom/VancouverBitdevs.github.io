@@ -102,11 +102,12 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 
 - [Coinos allows users to configure auto-withdrawals onchain](https://twitter.com/coinoswallet/status/1753182855226912833)
 - [Swaproot: cheaper and more private on-chain deposits on Phoenix](https://acinq.co/blog/phoenix-swaproot)
+- [Open-source platform for quantitative trading empowered by reinforcement learning](https://github.com/TradeMaster-NTU/TradeMaster)
 
 ## Events and Podcasts
 
 - [Watchman Privacy: Coincards - Buy Gift Cards with Monero and Bitcoin](https://fountain.fm/episode/dCvn3BxK849u76vnw8aW)
-- [Damus & Nostr: Revolutionizing Bitcoin in Web3 | William Casarin](https://www.youtube.com/watch?v=CaAx1DiBjRQ)
+- [Damus & Nostr: Revolutionizing Bitcoin in Web3 William Casarin](https://www.youtube.com/watch?v=CaAx1DiBjRQ)
 - [Take Your Business Global by Accepting Bitcoin (Adam & Cole, Coinos)](https://beyondtheprice.substack.com/p/take-your-business-global-by-accepting)
 - [What Bitcoin Did: The Hidden Cost of Money with Seb Bunney](https://www.youtube.com/watch?v=DnBuIla9nGU)
 - [Bitcoin ossification debate](https://twitter.com/TFTC21/status/1759704333736878289)
