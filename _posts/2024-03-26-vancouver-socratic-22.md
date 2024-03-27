@@ -38,6 +38,7 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 The Halving
 
 - [Bitcoin halving code](https://twitter.com/_jonasschnelli_/status/1772037196033528235)
+- [Bitcoin halving facts](https://blog.bitcoin.org.hk/bitcoin-halving-facts-38c330e92e82)
 
 ## bitcoin-dev
 
