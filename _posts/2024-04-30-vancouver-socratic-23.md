@@ -14,6 +14,8 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 We now post the links to this seminar in advance! [Check out our Github issues for the latest.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/issues)
 
+Today's MC: TBD
+
 ### Never miss a Bitcoin event ever again
 
 [Check out and subscribe to the calendar here](/calendar)
@@ -32,13 +34,42 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 
 #### New merchants
 
+[El Caracol](https://www.facebook.com/profile.php?id=100063959828739)
 [Bula Lounge](https://bulalounge.com/)
 
 <!-- ### Today's talk -->
 
 ### Today's talk
 
+#### Privacy on Lightning
 
+<br><br>
+**Lightning channels**
+- [Two-of-two multisignature contracts](https://mempool.space/tx/7bd5f8e832915dd09079cf7b3238c20fa0c71ac5e715a33c23a5a58283c0498b)
+- [Capacity visible for everyone, balance isn't](https://amboss.space/node/021294fff596e497ad2902cd5f19673e9020953d90625d68c22e91b51a45c032d3)
+- Channels are announced as part of the network graph
+- Lots of improvements coming to how they are announced!
+
+<br><br>
+**Lightning invoices**
+- [lnbc21u1pnrz6rspp588fx9kkgu6xqu9js22ptwv89v](https://lightningdecoder.com/lnbc21u1pnrz6rspp588fx9kkgu6xqu9js22ptwv89vpaggstrpf97yxrpht2yt228v6dsdqqcqzzsxqyz5vqsp5hwtj5ckccr6kmxsey6flyn9zxpuglv2f7zvlqvq2frknafwnsnvs9qyyssq6grhhaj6k5mz6u9q7gr5wagfvn4094uz0xaqjel7veqpgye2hu85llvq4sge5s3xxu5pe80wkmd6w2thewp66hg2s45dy9skdx0utpcptmqa2r)
+- It may be easy to identify the destination
+- Payments are identified by payment hash
+- HTLCs become visible onchain if they have to be settled
+
+<br><br>
+**Lightning payments**
+- [Onion routing hides the full path from routing nodes](https://ellemouton.com/posts/onion-routing-prelims/)
+- Each node can only see the previous and next hop.
+- Only the ultimate destination knows it is the ultimate destination.
+- The ultimate destination only knows the incoming channel.
+- Only the sender knows the full path.
+
+<br><br>
+**Onchain analysis**
+- Segwit channels are easy to identify when they are closed cooperatively or uniltarerally
+- As of now, a node's onchain balance can probably be easily calculated after the fact
+- Unannounced channels can eventually be identified as their outputs are mixed with inputs from public channels
 
 ## bitcoin-dev
 
@@ -97,6 +128,8 @@ We now post the links to this seminar in advance! [Check out our Github issues f
 - [Bull Bitcoin requires full KYC for buying Bitcoin at Canada Post](https://twitter.com/francispouliot_/status/1774840970841874438)
 - [Lightspark Gets Debanked by Bill.com](https://www.nobsbitcoin.com/lightspark-gets-debanked-by-bill-com/)
 - [zkSNACKs is Now Blocking U.S. Residents and Citizens](https://blog.wasabiwallet.io/zksnacks-now-blocking-u-s-residents-and-citizens/)
+- [Binance Founder Sentenced to 4 Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
+- [Early Bitcoin Investor Roger Ver Charged with Tax Fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 
 ## (Central Banking) Banking Crisis
 

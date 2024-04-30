@@ -27,9 +27,11 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
+- **NEW [Bula Lounge](https://bulalounge.com/)**: Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
-- **NEW [Container Brewing](https://www.drinkcontainer.beer/hodl)**: Brewery in Strathcona
+- [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
+- **NEW [El Caracol](https://www.facebook.com/profile.php?id=100063959828739)**: El Salvadorian food on Victoria Drive
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
@@ -45,7 +47,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 #### Miscallaneous shops
 
 - [Arbutus](https://arbutus.com/): Custom furniture
-- **NEW Al Madina Corner Store**: Convenience store on West Pender
+- Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
