@@ -17,21 +17,25 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Brick & mortar shops
 
-#### Barbershops:
+#### Barbershops, spas and fitness:
 
 - [JD's Barbershop](https://www.jdsbarbershop.com/): Men's haircuts and grooming
-- [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
 - [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
+- [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
+- [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
+- [Float House Therapy](https://floathouse.ca/): Wellness center
+- ** NEW [Medi Spa La Bella](https://medispalabella.com/)**: Beauty salon in Richmond
+- ** NEW [Rize Fitness](https://rizefitness.ca/):** Gym in downtown Vancouver
 
 #### Restaurants, cafes & Bars:
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
-- **NEW [Bula Lounge](https://bulalounge.com/)**: Shisha Lounge in East Van
+- [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
-- **NEW [El Caracol](https://www.facebook.com/profile.php?id=100063959828739)**: El Salvadorian food on Victoria Drive
+- [El Caracol](https://www.facebook.com/profile.php?id=100063959828739): El Salvadorian food on Victoria Drive
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
@@ -42,6 +46,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
+- **NEW [Uno Gelato](https://unogelato.com/):** Ice cream in Downtown, Greektown and Olympic Village
 - [VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 #### Miscallaneous shops
@@ -50,9 +55,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
-- [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
-- [Float House Therapy](https://floathouse.ca/): Wellness center
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
 - [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
@@ -63,7 +66,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ### B2B, wholesale and others
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
-- [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local quality distillery
+- [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
