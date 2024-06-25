@@ -101,7 +101,7 @@ L402s & Lightning-enabled APIs by Jordi
 
 ## Events and Podcasts
 
-- [Oslo Freedom Forum | Financial Freedom Track Livestream](https://www.youtube.com/watch?v=LMeNe1tBsr4)
+- [Oslo Freedom Forum Financial Freedom Track Livestream](https://www.youtube.com/watch?v=LMeNe1tBsr4)
 
 ## Miscellaneous
 
