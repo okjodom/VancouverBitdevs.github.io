@@ -24,8 +24,8 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
 - [Float House Therapy](https://floathouse.ca/): Wellness center
-- ** NEW [Medi Spa La Bella](https://medispalabella.com/)**: Beauty salon in Richmond
-- ** NEW [Rize Fitness](https://rizefitness.ca/):** Gym in downtown Vancouver
+- [Medi Spa La Bella](https://medispalabella.com/): Beauty salon in Richmond
+- [Rize Fitness](https://rizefitness.ca/): Gym in downtown Vancouver
 
 #### Restaurants, cafes & Bars:
 
@@ -33,6 +33,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
+- **NEW [Carnitas Don Jose](https://www.donjosecarnitas.ca/)**: Mexican food in Chinatown
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [El Caracol](https://www.facebook.com/profile.php?id=100063959828739): El Salvadorian food on Victoria Drive
@@ -40,13 +41,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
-- [Milano Coffee](https://www.milanocoffee.ca/): Coffee and tea
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
-- **NEW [Uno Gelato](https://unogelato.com/):** Ice cream in Downtown, Greektown and Olympic Village
+- [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - [VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 #### Miscallaneous shops
@@ -54,14 +54,17 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Arbutus](https://arbutus.com/): Custom furniture
 - Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
+- **NEW [Blunt Cannabis](https://www.bluntcannabis.ca/)**: Cannabis Store in Lonsdale
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
+- **NEW [EJ Cell Phone Repair](https://ejrepair.com/)**: Cell phone repair in Greektown
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
-- [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
+- **NEW [Jack Lonsdale](https://jacklonsdales.ca/)**: Liquor store in Lonsdale
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
 - [Shoot High Caliber](https://shoothc.ca/): Professional instructors of firearms
 - [TSB CPA](https://www.tsbcpa.ca/): CPA with focus on Bitcoin taxation
+- [Vape and Bong](https://drvape-smoke-and-bong.business.site/): Convenience store downtown
 
 ### B2B, wholesale and others
 
