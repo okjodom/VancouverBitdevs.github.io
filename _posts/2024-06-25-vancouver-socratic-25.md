@@ -98,6 +98,7 @@ L402s & Lightning-enabled APIs by Jordi
 - [Ark Labs launches, promising Bitcoin payments at scale](https://arklabs.to/)
 - [Lightning Network request decoder](https://amboss.space/)
 - [Zeus v0.9.0-alpha is out](https://x.com/ZeusLN/status/1800129738993963034)
+- [Latin America's Largest Fintech Bank Integrates Bitcoin Lightning Payments Via Lightspark](https://bitcoinmagazine.com/business/latin-americas-largest-fintech-bank-integrates-bitcoin-lightning-payments)
 
 ## Events and Podcasts
 
