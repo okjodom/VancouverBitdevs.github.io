@@ -14,7 +14,7 @@ Welcome Elenctics to tonight's Socratic Seminar!
 
 We now post the links to this seminar in advance! [Check out our Github issues for the latest.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/issues)
 
-Today's MC: TBD
+Today's MC: Alex
 
 ### Never miss a Bitcoin event ever again
 
