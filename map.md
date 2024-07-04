@@ -14,7 +14,8 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - ⚡[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
-- ⚡[Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
+- ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
+- ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - ⚡[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
@@ -24,40 +25,20 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - ⚡[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
-### Online merchants
-
-- [Newegg](https://www.newegg.ca): Electronics shipping Canada-wide
-- [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
-- [Gotoshi](https://gotoshi.ca/store-listing/), Household items delivered out of Ontario
-- [Mati Bistro](https://www.matibistro.com/home): Catering
-- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
-- [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
-
-### Brick & mortar shops
-
-#### Barbershops, spas and fitness:
-
-- [JD's Barbershop](https://www.jdsbarbershop.com/): Men's haircuts and grooming
-- [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
-- [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
-- [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
-- [Float House Therapy](https://floathouse.ca/): Wellness center
-- [Medi Spa La Bella](https://medispalabella.com/): Beauty salon in Richmond
-- [Rize Fitness](https://rizefitness.ca/): Gym in downtown Vancouver
-
-#### Restaurants, cafes & Bars:
+### Restaurants, cafes & Bars:
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
-- **NEW [Carnitas Don Jose](https://www.donjosecarnitas.ca/)**: Mexican food in Chinatown
+- [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
+- **NEW [Carnitas Don Jose](https://www.donjosecarnitas.ca/)**: Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
-- [El Caracol](https://www.facebook.com/profile.php?id=100063959828739): El Salvadorian food on Victoria Drive
+- [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
-- [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
+- [Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
@@ -68,9 +49,28 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - [VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
-#### Miscallaneous shops
+### Online merchants
 
-- [Arbutus](https://arbutus.com/): Custom furniture
+- [Newegg](https://www.newegg.ca): Electronics shipping Canada-wide
+- [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
+- [Gotoshi](https://gotoshi.ca/store-listing/): Household items delivered out of Ontario
+- [Marais Tea Company](https://maraisteaco.com): Tea shipping from BC
+- [Mati Bistro](https://www.matibistro.com/home): Catering
+- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
+- [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
+- [Rize Fitness](https://rizefitness.ca/): Gym in downtown Vancouver
+
+### Barbershops, spas and fitness:
+
+- [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
+- [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
+- [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
+- [Float House Therapy](https://floathouse.ca/): Wellness center
+- [JD's Barbershop](https://www.jdsbarbershop.com/): Men's haircuts and grooming
+- [Medi Spa La Bella](https://medispalabella.com/): Beauty salon in Richmond
+
+### Miscallaneous shops
+
 - Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - **NEW [Blunt Cannabis](https://www.bluntcannabis.ca/)**: Cannabis Store in Lonsdale
@@ -78,6 +78,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
 - **NEW [EJ Cell Phone Repair](https://ejrepair.com/)**: Cell phone repair in Greektown
 - [Hotro Organic Meats](https://hotro.ca/): Butcher shop on Main Street
+- [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - **NEW [Jack Lonsdale](https://jacklonsdales.ca/)**: Liquor store in Lonsdale
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Shibuya Republic Vancouver](https://www.instagram.com/shibuyarepublik/): West Coast swag sold from a van
@@ -88,10 +89,13 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 ### B2B, wholesale and others
 
 - [Arborist Pro](https://www.arborist-pro.ca/): Reports, removals, cutting & emergency response
+- [Arbutus](https://arbutus.com/): Custom furniture
 - [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
+- [Longlife Windows and Doors](http://longlife.ca/): Windows and Doors
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
+- [Picasso Home Painting](http://picasshomepainting.com/): Painting business
 - [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
