@@ -2,9 +2,26 @@
 layout: default
 ---
 
-We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you can find a curated selection of businesses around Greater Vancouver where we spend our sats. If you would like to see your business added, [open a discussion here.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/discussions/categories/merchants).
+We love Bitcoin, we love earning Bitcoin and we love spending Bitcoin. Below you can find a short list of Vancouver merchants that love accepting Bitcoin, provide a consistently good user experience. Below you can find a longer list of businesses that accept Bitcoin. 
+
+If you would like to see your business added, [open a discussion here.](https://github.com/VancouverBitdevs/VancouverBitdevs.github.io/discussions/categories/merchants) or message us at [leo@vanbitcoin.ca](mailto:leo@vanbitcoin.ca).
 
 Looking for how to accept Lightning payments yourself? [Check out our handy guide.](/notes/2024-01_pos)
+
+## Recommendations
+
+- ⭐[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
+- ⭐[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
+- ⭐[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- ⭐[Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
+- ⭐[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
+- ⭐[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
+- ⭐[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
+- ⭐[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
+- ⭐Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
+- ⭐[The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
+- ⭐[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
+- ⭐[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 ### Online merchants
 
@@ -31,6 +48,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - [4 Brothers Pizza](https://online-ordering-4-brothers-pizza.brygid.online/zgrid/themes/13400/portal/index.jsp): Pizza
 - [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
+- [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - **NEW [Carnitas Don Jose](https://www.donjosecarnitas.ca/)**: Mexican food in Chinatown
