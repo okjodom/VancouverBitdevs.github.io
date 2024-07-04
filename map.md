@@ -10,18 +10,19 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ## Recommendations
 
-- ⭐[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
-- ⭐[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
-- ⭐[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
-- ⭐[Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
-- ⭐[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
-- ⭐[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
-- ⭐[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
-- ⭐[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
-- ⭐Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
-- ⭐[The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
-- ⭐[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
-- ⭐[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
+- ⚡[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
+- ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
+- ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
+- ⚡[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- ⚡[Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
+- ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
+- ⚡[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
+- ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
+- ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
+- ⚡Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
+- ⚡[The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
+- ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
+- ⚡[VanLove Sushi](https://vanlove.ca/): Sushi restaurant on Robson Street
 
 ### Online merchants
 
