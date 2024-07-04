@@ -14,6 +14,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
 - ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - ⚡[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - ⚡[Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - ⚡[Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
@@ -56,6 +57,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [La Cantina de Don Porfirio](https://www.instagram.com/donporfiriovan): Mexican restaurant in Mt Pleasant
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [El Caracol](https://www.facebook.com/profile.php?id=100063959828739): El Salvadorian food on Victoria Drive
+- [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
