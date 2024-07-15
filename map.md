@@ -12,8 +12,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - ⚡[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
-- ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
-- ⚡[Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
+- ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona. Also try the Sandwich truck Sun-Tue
 - ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
@@ -43,6 +42,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
+- [Pretty Good Sandwiches](https://prettygoodsandwiches.ca/): Food truck by Container Brewing
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
@@ -62,6 +62,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 ### Barbershops, spas and fitness:
 
+- [Arc Studio](https://arcstudiospace.com/): Pilates studio on Commercial Drive
 - [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
 - [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
