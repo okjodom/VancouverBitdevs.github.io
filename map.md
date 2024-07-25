@@ -12,7 +12,7 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - ⚡[Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - ⚡[Caffe Artigiano](https://caffeartigiano.com/): Coffee and snacks
-- ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona. Also try the Sandwich truck Sun-Tue
+- ⚡[Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona.
 - ⚡[Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - ⚡[Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
@@ -36,13 +36,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - **NEW [Carnitas Don Jose](https://www.donjosecarnitas.ca/)**: Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
-- [Corduroy](https://www.corduroyrestaurant.com/): Pizza & beer
 - [Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
 - [Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - [Master Kebap](https://master-chef.ca/): Food truck found Granville/Dunsmuir
+- [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
-- [Pretty Good Sandwiches](https://prettygoodsandwiches.ca/): Food truck by Container Brewing
 - Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
@@ -53,12 +52,12 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 
 - [Newegg](https://www.newegg.ca): Electronics shipping Canada-wide
 - [Coincards](https://coincards.com/): Gift cards and prepaid debit cards
+- [D-Central](https://d-central.tech/): 3D-printed accessories from Quebec
 - [Gotoshi](https://gotoshi.ca/store-listing/): Household items delivered out of Ontario
 - [Marais Tea Company](https://maraisteaco.com): Tea shipping from BC
-- [Mati Bistro](https://www.matibistro.com/home): Catering
-- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
+- [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Privato Vineyard](https://www.privato.ca/bitcoin): Vinery shipping across British Columbia
-- [Rize Fitness](https://rizefitness.ca/): Gym in downtown Vancouver
+- [Rize Fitness](https://shop.rizefitness.ca/): Supplements
 
 ### Barbershops, spas and fitness:
 
@@ -94,10 +93,11 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Crow's Nest Distillery](http://www.crowsnestdistillery.com/): Local distillery
 - [Feral Analysis](https://www.feralanalysis.com): Stock and crypto price analysis reports, chart analysis and trading education
 - [Frasier River Forge](https://fraserriverforge.com/): Learn blacksmithing
+- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 - [Longlife Windows and Doors](http://longlife.ca/): Windows and Doors
+- [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
 - [Picasso Home Painting](http://picasshomepainting.com/): Painting business
-- [Plebsters](https://plebsters.com/): Canadian shop selling Bitcoin swag
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
 - [Remedy Renovations](https://remedy-renovations.com/): Renovations
 
