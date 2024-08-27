@@ -94,6 +94,7 @@ Today's MC: Jodom
 ## Events and Podcasts
 
 - [CoinOS AMA on Stacker News](https://stacker.news/items/6607760)
+- [Africa Bitcoin Conference - Upcoming](https://afrobitcoin.org)
 
 ## Miscellaneous
 
